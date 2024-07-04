@@ -1,0 +1,5 @@
+git add filename => add the file to the stage area
+git add . => add all files to the stage area
+git reset head filename => remove the file from the stage area
+git commit -m"message" => move file from stage area to local repo
+
